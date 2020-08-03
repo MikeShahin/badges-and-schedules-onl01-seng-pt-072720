@@ -10,4 +10,4 @@ def batch_badge_creator(attendees)
   return batch_badge_messages
 end
 
-batch_badge_creator[]
+batch_badge_creator["Edsger", "Ada", "Charles"]
